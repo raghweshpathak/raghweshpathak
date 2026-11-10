@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Raghwesh Pathak 👋
 
-<!--
-**raghweshpathak/raghweshpathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | SRE | Linux | Cloud
 
-Here are some ideas to get you started:
+IT professional with 5+ years of experience across
+Linux System Administration and Site Reliability Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on building reliable infrastructure,
+automating deployments, and improving application operations.
+
+## 🛠️ Technical Skills
+
+- **Cloud:** AWS
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
+- **Containers:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Ansible
+- **Monitoring:** Prometheus, Grafana, CloudWatch
+- **Operating Systems:** Linux, RHEL, Ubuntu
+- **Scripting:** Python, Bash
+- **Version Control:** Git, GitHub
+
+## 🎯 Current Focus
+
+- Building automated CI/CD pipelines
+- Containerization and deployment automation
+- AWS infrastructure management
+- Infrastructure as Code
+- Linux administration and troubleshooting
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/raghweshpathak
